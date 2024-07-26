@@ -14,6 +14,7 @@
 7. Install [Apex]
 8. Install python requirements or build docker image 
     - Install python requirements: `pip install -r requirements.txt`
+These steps are already done in command_list.ipynb file , You can run the file in kaggle for easy running
 
 ## Training
 1. `python train.py --output_directory=outdir --log_directory=logdir`
