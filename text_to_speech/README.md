@@ -5,7 +5,7 @@
 
 ## Setup
 1. Download and extract the [LJ Speech dataset](https://keithito.com/LJ-Speech-Dataset/)
-2. Clone this repo: `git clone https://github.com/NVIDIA/tacotron2.git`
+2. download the folder `/text_to_speech` in repo `https://github.com/biswajit-github-2022/term_peoject/`
 3. CD into this repo: `cd tacotron2`
 4. Initialize submodule: `git submodule init; git submodule update`
 5. Update .wav paths: `sed -i -- 's,DUMMY,ljs_dataset_folder/wavs,g' filelists/*.txt`
