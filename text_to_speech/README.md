@@ -23,5 +23,8 @@
 Training using a pre-trained model can lead to faster convergence  
 By default, the dataset dependent text embedding layers are [ignored]
 
-1. Download our published [Tacotron 2](https://drive.google.com/drive/folders/19HXXTX8QF4F_K2i-vzyJj7Uwev9h3sPV) model
+1. Download the pretrained [Tacotron 2](https://drive.google.com/drive/folders/19HXXTX8QF4F_K2i-vzyJj7Uwev9h3sPV) model
 2. `python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt --warm_start`
+
+## Results
+checkout output folder for some output i have achieved
