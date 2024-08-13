@@ -13,3 +13,9 @@
   <img src="images/2_1.png" width="45%" alt="Image 1 Description">
   <img src="images/2_2.png" width="45%" alt="Image 2 Description">
 </p>
+
+
+All required Libreries are given in requirements.txt
+`pip install -r requirements.txt`
+
+run `python3 U-net_updated.py`
