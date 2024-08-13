@@ -2,11 +2,11 @@
     https://www.kaggle.com/c/data-science-bowl-2018/data
 
 # images :
-`Actual image`
+Actual image
 ![](images/1_1.png) 
-`Segmented image`
+Segmented image
 ![](images/1_2.png)
-`Actual image`
+Actual image
 ![](images/2_1.png)  
-`Segmented image`
+Segmented image
 ![](images/2_2.png)
