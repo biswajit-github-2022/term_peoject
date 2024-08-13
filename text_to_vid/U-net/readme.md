@@ -17,3 +17,9 @@
 
 `Segmented image`
 ![](images/2_2.png)
+
+
+<p align="center">
+  <img src="images/1_1.png" width="45%" alt="Image 1 Description">
+  <img src="images/1_2.png" width="45%" alt="Image 2 Description">
+</p>
